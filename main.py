@@ -4,8 +4,8 @@ from utils.analysis import CodeAnalyzer
 from utils.report import ReportGenerator
 
 # Set your GitHub and ChatGPT tokens here
-github_token = "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"
-chatgpt_api_key = "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"
+github_token = "your github token here"
+chatgpt_api_key = "your openai api key here "
 
 # Set the GitHub repository name you want to analyze
 repository_name = "snigdha510/Minor-Project---Sentiment-Analysis"
