@@ -8,7 +8,7 @@ github_token = "your github token here"
 chatgpt_api_key = "your openai api key here "
 
 # Set the GitHub repository name you want to analyze
-repository_name = "snigdha510/Minor-Project---Sentiment-Analysis"
+repository_name = "owner/repository name"
 
 github_api = GitHubAPI(github_token)
 chatgpt = ChatGPT(chatgpt_api_key)
