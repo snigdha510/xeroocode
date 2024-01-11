@@ -9,13 +9,13 @@ The Code Analysis Tool is a Python-based script designed to facilitate the integ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- 
+
 ## Installation
 
 1. **Clone the repository to your local machine:**
 
     ```bash
-    git clone https://github.com/your-username/xeroocode.git
+    git clone https://github.com/snigdha510/xeroocode.git
     ```
 
 2. **Navigate to the project directory:**
